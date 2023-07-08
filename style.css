@@ -39,5 +39,12 @@ form{
 
 #search-button{
     padding: 10px 20px;
-    back
+    background-color: #138065;
+    color: #fff;
+    border: none;
+    font-size: 18px;
+    box-shadow: 0 0 6px rgba(0, 0, 0, 0.2);
+    cursor: pointer;
+    border-radius: 5px;
+    
 }
