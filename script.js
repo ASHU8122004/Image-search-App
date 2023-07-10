@@ -38,7 +38,7 @@ async function searchImages(){
 
     page++;
     if (page > 1) {
-        showMore.Style.display = "block";
+        showMore.style.display = "block";
     }
 }
 
