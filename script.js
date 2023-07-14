@@ -1,5 +1,3 @@
-/* d4cTk7UOtpPCdx8F19uDYtLWykN2H5gx0DEggkuh9m4 */
-
 //key API
 const accessKey = "4m_A4gaHKPAvw30bbolep5BJX9RF3ZlVk7VHuPy8Mj0";
 
